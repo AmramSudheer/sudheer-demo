@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>unordered list</h1>
+        <ul>
+            
+            <li>milk</li>
+            <li>cheese</li>
+            <li>curd</li>
+            <li>eggs</li>
+            <ul>
+                <li>ghee</li>
+                <li>sugar</li>
+                <li>choco</li>
+            </ul>
+        </ul>
+        <h1>ordered list</h1>
+        <ol>
+            <li>break fast</li>
+            <li>lunch</li>
+            <li>dinner</li>
+            <ol>
+                <li>wakeup</li>
+                <li>workout</li>
+                <li>sleep</li>
+            </ol>
+        </ol>
+        <h1>description list</h1>
+        <dl>
+            <dt>eagle</dt>
+            <dd>Eagles are not a natural group but denote essentially any kind of bird of prey large enough to hunt sizeable (about 50 cm long or more overall) vertebrates.</dd>
+        </dl>
+
+    </head>
+</html>

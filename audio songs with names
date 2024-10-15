@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AUDIO TRACKS</title>
+        <pr>song 1</pr>
+        <audio controls loop>
+            <source src="audio/1.mp3.mp3">
+        </audio>
+        <br>
+        <pr>song 2</pr>
+        <audio controls>
+            <source src="audio/2.mp3.mp3">
+
+        </audio>
+        <br>
+
+        <pr>song 3</pr>
+        <audio controls>
+            <source src="audio/3.mp3.mp3">
+        </audio>
+    </head>
+</html>

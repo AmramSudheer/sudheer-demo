@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <header style="background-color: burlywood;">
+            <h3>welcome to SR </h3>
+            <a href="">home</a>
+            <a href="">contactus</a>
+            <a href="">products</a>
+            <a href="">About us</a>
+            <hr>
+
+        </header>
+        <main>
+            <h4>FADED</h4>
+<image src="images/faded.png.jpg"></image>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident sed molestiae labore, cum nobis explicabo rerum quae magni impedit. Accusamus a omnis laborum! Consequuntur, quibusdam id eius ipsam officiis at.</p>
+        </main>
+
+        <footer style="background-color: yellowgreen;">
+            <hr>
+            author:sudheer<hr>
+
+        </footer>
+    </head>
+</html>

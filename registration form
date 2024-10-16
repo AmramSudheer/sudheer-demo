@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <form action="index1.html" method="post">
+                <label for="username">username:</label>
+                <input type="text" id="username" minlength="5" maxlength="20" placeholder="abcdef" required><br>
+
+                <label for="password">password:</label>
+                <input type="password" id="password" required><br>
+
+                <label for="email address">email:</label>
+                <input type="email" id="email" placeholder="asdasda@gmail.com" required><br>
+
+                <label for="phone number">phone number:</label>
+                <input type="tel" id="phone number" minlength="10" maxlength="10" placeholder="123-456-7890" pattern="123-456-7890"><br>
+
+                <label for date of birth>date of birth:</label>
+                <input type="date" id="date of birth"><br>
+
+                <label for="quantity">quantity</label>
+                <input type="number" id="quantity"><br>
+
+                <label for="Gender">Gender:</label>
+                <label for="male">male</label>
+                <input type="radio" id="male" value="male" name="Gender">
+                <label for="female">female:</label>
+                <input type="radio" id="female" value="female" name="Gender">
+                <label for="others">others</label>
+                <input type="radio" id="others" value="others" name="Gender"><br>
+
+                <label for="title">title:</label>
+                    <label for="MR.">MR.</label>
+                    <input type="radio" id="MR." value="MR." name="title">
+
+                    <label for="MS.">MS.</label>
+                    <input type="radio" id="MS." value="MS." name="title">
+
+                    <label for="DR.">DR.</label>
+                    <input type="radio" id="DR." value="DR." name="title"><br>
+    <label for="payment">payment:</label>
+    <select>
+        <option value="visa">visa</option>
+        <option value="mastercard">mastercard</option>
+        <option value="credit">credit</option>
+    </select><br>
+    <label for="subscribe">subscribe</label>
+    <input type="checkbox" id="subscribe the plan" ><br>
+    <label for="comments">comments</label>
+    <textarea id="comments" rows="4" cols="30"></textarea><br>
+    <label for="file">file</label>
+    <input type="file" id="file" accept="image/jpg,image/png"><br>
+    <input type="button" id="submit" value="submit"><br>
+    <input type="button" id="reset" value="reset"><br>
+
+            </form>
+        </body>
+    </head>
+</html>
